@@ -45,8 +45,8 @@ Feel free to reach out on **LinkedIn** to discuss how I can contribute to your n
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-  <a href="https://github.com/ChristianGallegosSatori">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristianGallegosSatori&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristianGallegosSatori&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Asahi7x">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asahi7x&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asahi7x&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
